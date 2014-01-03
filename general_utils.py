@@ -102,5 +102,5 @@ this will remove a database
 """
 def delete_database(dbname):
     print "deleting "+dbname
-    cmd = ["rm","-r",dbname]
+    cmd = ["rm","-rf",dbname]
     pr = Popen(cmd).wait()
