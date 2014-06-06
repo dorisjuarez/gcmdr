@@ -9,7 +9,7 @@ studytreelist=[
 "2863_6767", # Oligohymenophorea (Ciliates). Gao et al. 2013. MPE				## unrooted; no ingroup defined  ### FIXED! HDL
 "2739_6601", # blue-green algae (Cyanobacteria). Schirrmeister et al. BMC Evol. Biol. 2011.
 "2892_6700", # blue-green algae (Cyanobacteria). Rigonato et al. Env. Microbio. 2013.		## unrooted; no ingroup defined
-"2891_6699", # blue-green algae (Cyanobacteria). Rigonato et al. FEMS Microbiol Eco 2012.	## unrooted; no ingroup defined
+"2891_6699", # blue-green algae (Cyanobacteria). Rigonato et al. FEMS Microbiol Eco 2012.	## unrooted; no ingroup defined  ### ingroup added DJ
 "2884_6688", # Mycobacterium. Sassi and Drancourt. BMC Genomics 2014.				## no ingroup defined
 "2744_6343", # Dinophyceae. Haywood et al. J Phycol. 2003.
 "2882_6682", # Mycobacterium. Mendum et al. BMC Genomics 2014					## no ingroup defined
