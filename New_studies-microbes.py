@@ -51,5 +51,5 @@ studytreelist=[
 "2927_6760", # Pseudokeronopsidae. da Silva Paiva et al. 2014. PLoS ONE
 "2772_6421", # Thalassiosirales. Alverson et al. 2011. BMC Evol. Biol.				## tree needs better name; no ingroup defined
 "2928_6761", # Cymbellales. Nakov et al. 2014. Phycologia					## unrooted; tree needs better name; can't find publication
-
+"2934_6771", # Ciliophora. Fernandes et al. 2014 J. Eukaryot. Microbiol. 
 ]
